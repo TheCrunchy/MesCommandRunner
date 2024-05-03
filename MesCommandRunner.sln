@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MesCommandRunner", "MesCommandRunner\MesCommandRunner.csproj", "{1CD71BDA-CE21-4D13-B2E2-553847311DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD71BDA-CE21-4D13-B2E2-553847311DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD71BDA-CE21-4D13-B2E2-553847311DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD71BDA-CE21-4D13-B2E2-553847311DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD71BDA-CE21-4D13-B2E2-553847311DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20E4515F-E14B-47D3-A9E2-7DEE8DD9E618}
+	EndGlobalSection
+EndGlobal
