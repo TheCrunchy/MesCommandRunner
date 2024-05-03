@@ -2,5 +2,5 @@
 <PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>MesCommandPlugin</Name>
   <Guid>f860b02f-793d-436b-ba78-0b51cbcdd1cb</Guid>
-  <Version>v1.0</Version>
+  <Version>v1.1</Version>
 </PluginManifest>
